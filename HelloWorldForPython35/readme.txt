@@ -1,0 +1,1 @@
+eclipse使用git方法：http://blog.csdn.net/hhhccckkk/article/details/10458159
